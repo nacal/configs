@@ -1,0 +1,12 @@
+{
+  "name": "@nacal-tools/biome-config",
+  "version": "0.1.0",
+  "description": "Shared Biome configuration",
+  "license": "MIT",
+  "files": [
+    "biome.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

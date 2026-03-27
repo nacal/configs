@@ -1,0 +1,8 @@
+{
+  "name": "@nacal-tools/configs",
+  "private": true,
+  "devDependencies": {
+    "@changesets/cli": "^2.29.4",
+    "@changesets/changelog-github": "^0.5.1"
+  }
+}
