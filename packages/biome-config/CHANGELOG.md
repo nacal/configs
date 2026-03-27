@@ -1,5 +1,11 @@
 # @nacal-tools/biome-config
 
+## 0.2.2
+
+### Patch Changes
+
+- [#7](https://github.com/nacal/configs/pull/7) [`72a86fe`](https://github.com/nacal/configs/commit/72a86fe9c885a3b3562ea54ecf4f53de98ac5517) Thanks [@nacal](https://github.com/nacal)! - fix: remove non-existent useNodeAssertStrictEquals rule and migrate organizeImports to assist format for Biome 2.x compatibility
+
 ## 0.2.1
 
 ### Patch Changes
