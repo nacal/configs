@@ -26,13 +26,14 @@
       },
       "performance": {
         "noBarrelFile": "error"
-      },
-      "correctness": {
-        "useNodeAssertStrictEquals": "error"
       }
     }
   },
-  "organizeImports": {
-    "enabled": true
+  "assist": {
+    "actions": {
+      "source": {
+        "organizeImports": "on"
+      }
+    }
   }
 }
